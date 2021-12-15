@@ -1,9 +1,12 @@
-### Hello there, I'm Rene 👋
+# Mae govannen! 👋
+## I'm Rene :smile:
 
-- 🔭 Currently working @ Dynatrace
-- 🎯 Next milestone: Software Engineering MSc (@ FHOOE Hagenberg) class of 2023
-- 🌱 I’m currently learning React (along with Redux, Saga, Jest, ...)
-- 💬 Ask me about all things Tolkien & Middle Earth (**way** beyond just Lord of the Rings 😉)
+- 🔭 Software Engineer @ [Dynatrace](https://www.dynatrace.com/ "Dynatrace.com")
+- 🎯 Next milestone: MSc in Software Engineering (@ [FHOOE Hagenberg](https://www.fh-ooe.at/en/hagenberg-campus/ "University of Applied Sciences Upper Austria - Hagenberg Campus")) class of 2023 as Double Degree in tandem with ...
+  - ... Dottore Magistrale in Artificial Intelligence and Computer Science at the [Universty of Calabria](https://www.unical.it/ "UniCal.it") in Bella Italia :it:
+- 🌱 I’m currently teaching myself [Dart](https://dart.dev/ "dart.dev") and [Flutter](https://flutter.dev/ "flutter.dev")
+- ⚡ In 2021, I taught myself: [React](https://reactjs.org/ "reactjs.org") (along with Redux, Saga, Jest, ...)
+- 💬 Ask me about all things Tolkien & Middle Earth (**way** beyond just The Lord of the Rings ... 😉)
 
 ## Find me on ...
 
